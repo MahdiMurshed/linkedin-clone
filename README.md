@@ -1,6 +1,6 @@
-#LinkedIn Clone 
--------
-####Technology used :
+# LinkedIn Clone 
+
+#### Technology used :
 
 - Next.js
 - Tailwindcss
