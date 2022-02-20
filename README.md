@@ -1,6 +1,6 @@
 # LinkedIn Clone 
 
-#### Technology used :
+#### Technology I am used :
 
 - Next.js
 - Tailwindcss
